@@ -1,44 +1,33 @@
-CounterStroke
+# CounterStroke
 
+CounterStroke es un juego de disparos en primera persona (FPS) con una temática de combate a muerte todos contra todos (FFA). El juego cuenta con varios controles para el movimiento, disparo y otras acciones, proporcionando una experiencia inmersiva y llena de acción.
 
+## Controles
 
-El shooter definitivo en primera persona con acción frenética y estrategia explosiva.
+- **W**: Mover hacia adelante
+- **A**: Mover hacia la izquierda
+- **S**: Mover hacia atrás
+- **D**: Mover hacia la derecha
+- **Espacio**: Saltar
+- **G**: Lanzar granada
+- **Click Izquierdo**: Disparar
+- **Click Derecho**: Disparar misil
 
-🎯 Descripción
+## Jugabilidad
 
-CounterStroke es un shooter en primera persona (FPS) con un modo Free-For-All Deathmatch, donde cada jugador lucha por su supervivencia en intensos combates. Usa un arsenal de armas y explosivos para dominar el campo de batalla.
+Al iniciar CounterStroke, se presentará una ventana para seleccionar tu nombre de jugador, la cantidad de bots y el mapa. Sin embargo, solo el anfitrión (la primera persona en unirse al juego) tiene la capacidad de elegir la cantidad de bots y el mapa.
 
-🕹️ Controles
+### Características
 
-W, A, S, D  -> Movimiento
-Espacio     -> Saltar
-Click Izq   -> Disparar
-Click Der   -> Disparar misil
-G           -> Lanzar granada
+- **Disparos en Primera Persona**: Experimenta el juego desde una perspectiva en primera persona.
+- **Combate a Muerte Todos Contra Todos**: Compite contra otros jugadores y bots en un combate a muerte todos contra todos.
+- **Controles del Anfitrión**: El anfitrión puede seleccionar la cantidad de bots y el mapa para el juego.
 
-🚀 Cómo Jugar
+### Iniciando el Juego
 
-Inicio del juego: Al ejecutar CounterStroke, aparece una ventana donde puedes:
+1. **Ingresar Nombre de Jugador**: Introduce tu nombre de jugador deseado.
+2. **Seleccionar Cantidad de Bots**: (Solo el anfitrión) Elige la cantidad de bots contra los que jugar.
+3. **Elegir Mapa**: (Solo el anfitrión) Selecciona el mapa para el juego.
+4. **Unirse al Juego**: Haz clic para unirte al juego y comenzar a jugar.
 
-Elegir tu nombre.
-
-Seleccionar la cantidad de bots (solo si eres el host).
-
-Elegir el mapa (solo si eres el host).
-
-Modo de host y unión:
-
-La primera persona en unirse a una partida se convierte en el host.
-
-Solo el host puede definir la cantidad de bots y el mapa.
-
-🌍 Mapas y Modos de Juego
-
-El juego cuenta con diversos mapas diseñados para ofrecer una experiencia intensa y estratégica. Cada escenario tiene puntos de cobertura, áreas abiertas y elementos interactivos.
-
-
-📌 Notas Adicionales
-
-Se recomienda jugar con auriculares para una mejor experiencia de sonido.
-
-Asegúrate de que tu conexión a internet sea estable si juegas en línea.
+¡Disfruta jugando a CounterStroke y que gane el mejor tirador!
